@@ -1,0 +1,1 @@
+# This is a basic Wordpress theme that can be utilised to build and design a wordpress website
